@@ -26,4 +26,4 @@ def countdown_with_sleep(n)
   
 end
 
-countdown_with_sleep(5.seconds)
+countdown_with_sleep(5.)
