@@ -13,3 +13,7 @@ end
 
 countdown(10)
 countdown(12)
+
+
+def countdown_with_sleep
+end
