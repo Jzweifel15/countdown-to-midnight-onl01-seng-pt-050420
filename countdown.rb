@@ -12,3 +12,4 @@ def countdown(number)
 end
 
 countdown(10)
+countdown(12)
